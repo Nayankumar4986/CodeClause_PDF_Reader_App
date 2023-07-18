@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Other theme attributes -->
+    </style>
+<!--    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize theme attributes &ndash;&gt;-->
+<!--    </style>-->
+
+    <style name="Theme.PDFReader" parent="Base.Theme.PDFReader" />
+
+
+
+
+</resources>
